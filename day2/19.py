@@ -1,0 +1,6 @@
+print("red")
+#print("orange")
+print("blue")
+#print("purple")
+print("green")
+print("red\nblue\ngreen")

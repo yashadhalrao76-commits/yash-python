@@ -17,7 +17,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ```
 
 Clone the repository and start Jupyter:
-
+ 
 ```bash
 git clone https://github.com/ankurdivekar/python-course.git
 cd python-course

@@ -1,0 +1,1 @@
+print("favourite_colour")
